@@ -1,0 +1,6 @@
+class Hello {
+    public static void main(String args[]) {
+      // Program execution begins here
+      System.out.println("Hello world. I can write Java!");
+    }
+}
